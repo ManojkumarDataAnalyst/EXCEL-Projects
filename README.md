@@ -5,3 +5,6 @@ business value of a property. To do this activity the company employs an “Audi
 various geographic features of a property like pollution level (NOX), crime rate, education facilities
 (pupil to teacher ratio), connectivity (distance from highway), etc. This helps in determining the price
 of a property.
+
+**Objective :**  Is to analyze the magnitude of each variable to which it can affect the price of
+a house in a particular locality.
